@@ -54,33 +54,6 @@ website:
         contents:
           - href: semanas/Aula01.qmd
             text: "Aula01"
-          - href: semanas/Aula02A.qmd
-            text: "Aula02A"
-          - href: semanas/Aula02B.qmd
-            text: "Aula02B"
-          - href: semanas/Aula02C.qmd
-            text: "Aula02C"
-          - href: semanas/Aula03.qmd
-            text: "Aula03"
-          - href: semanas/Aula04.qmd
-            text: "Aula04"
-          - href: semanas/Aula06.qmd
-            text: "Aula06"
-          - href: semanas/Aula06x.qmd
-            text: "TFA1"
-          - href: semanas/Aula06x1.qmd
-            text: "TFA2"
-          - href: semanas/Aula07.qmd
-            text: "TFA3"
-          - href: semanas/Aula08.qmd
-            text: "Cox 1"
-          - href: semanas/Aula09.qmd
-            text: "Cox 2"
-          - href: semanas/Aula10.qmd
-            text: "Cox 3"
-          - href: semanas/Aula11.qmd
-            text: "Cox 4"
-
  
 format:
   html:
